@@ -1,18 +1,48 @@
 
+/* Custom CSS */
+
+/* Background color for header and image slide */
+
 .honda-background{
     background-color: #264653;
 }
 
+/* Orange Background color for buttons*/
 .orange-background{
     background-color: #E76F51;
 }
+
+/* Orange color for text*/
 
 .orange-text{
     color: #E76F51;
 }
 
+.border-orange-text{
+    border-color: #E76F51;
+    border-width: 2px;
+}
+
+/* used to make image greyscale */
 .img-greyscale{
     filter: grayscale(100%);
 }
+
+/* client star rating color */
+
+.rating-color{
+    color: #E77C40;
+}
+
+/* client name text color */
+
+.client-name-color{
+    color: #23A6F0;
+}
+
+
+
+
+
 
 
