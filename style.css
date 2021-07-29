@@ -1,0 +1,18 @@
+
+.honda-background{
+    background-color: #264653;
+}
+
+.orange-background{
+    background-color: #E76F51;
+}
+
+.orange-text{
+    color: #E76F51;
+}
+
+.img-greyscale{
+    filter: grayscale(100%);
+}
+
+
